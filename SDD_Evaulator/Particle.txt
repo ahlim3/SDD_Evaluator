@@ -1,0 +1,8 @@
+./Target/0_1.2.sdd Evaluation
+Number of Particle = 19
+Number of BD = 146
+Number of SSB = 1702
+Number of DSB = 188
+Number of Indirect Damages = 786
+Number of Direct Damages = 329
+Number of Hybrid Damages = 210
